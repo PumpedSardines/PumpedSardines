@@ -8,7 +8,7 @@ I'm Fritiof, a Rust coder and piano player from Stockholm currently attending KT
 * 🔧 Neovim Tinkerer: Customizing configs to perfection.
 
 ### Some cool websites I've worked on:
-* 👗 [Arkivet Secondhand](https://arkivet.com)
+* 🥋 [Arkivet Secondhand](https://arkivet.com)
 * 🚂 [MTRX](https://mtrx.travel)
 * 👃 [Sniph](https://sniph.com)
 
