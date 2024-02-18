@@ -1,17 +1,10 @@
 ## Hi there 👋
-I'm Fritiof, a Rust coder and piano player from Stockholm currently attending KTH University.
+I'm Fritiof, a web developer and an asipring pianist from Stockholm. Currently attending KTH University and working part time at 5 monkeys.
 
-### A bit about myself:
+### A Peek into My World:
+* 💻 Web Developer: Crafting unqiue websites is my jam.
 * 🚶‍♂️ Love Walking: Always up for a stroll in nature.
-* 🎹 Piano Passion: I find solace in playing melodies.
-* 💻 Rust Coder: Crafting efficient code is my jam.
+*	🎹 Piano Player: Playing melodies brings me peace.
 * 🔧 Neovim Tinkerer: Customizing configs to perfection.
-
-<!--
-### Some cool websites I've worked on:
-* 🥋 [Arkivet Secondhand](https://arkivet.com)
-* 🚂 [MTRX](https://mtrx.travel)
-* 👃 [Sniph](https://sniph.com)
--->
 
 Let's chat about coding, music, or anything under the Stockholm sun! ☀️
